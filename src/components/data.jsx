@@ -1,3 +1,74 @@
+import { IoLogoApple } from "react-icons/io";
+
+export const navLinks = [
+  {
+    id: 1,
+    href: "#",
+    title: <IoLogoApple />,
+    class: "logo",
+  },
+  {
+    id: 2,
+    href: "#",
+    title: "Store",
+    class: "navItem",
+  },
+  {
+    id: 3,
+    href: "#",
+    title: "Mac",
+    class: "navItem",
+  },
+  {
+    id: 4,
+    href: "#",
+    title: "iPad",
+    class: "navItem",
+  },
+  {
+    id: 5,
+    href: "#",
+    title: "iPhone",
+    class: "navItem",
+  },
+  {
+    id: 6,
+    href: "#",
+    title: "Watch",
+    class: "navItem",
+  },
+  {
+    id: 7,
+    href: "#",
+    title: "Airpods",
+    class: "navItem",
+  },
+  {
+    id: 8,
+    href: "#",
+    title: "TV & Home",
+    class: "navItem",
+  },
+  {
+    id: 9,
+    href: "#",
+    title: "Entertainment",
+    class: "navItem",
+  },
+  {
+    id: 10,
+    href: "#",
+    title: "Accessories",
+    class: "navItem",
+  },
+  {
+    id: 11,
+    href: "#",
+    title: "Support",
+    class: "navItem",
+  },
+];
+
 export const products = [
   {
     id: 1,
